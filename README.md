@@ -7,3 +7,9 @@ Tämä on kertausharjoitus C++ perusteista.
 
 ### h2a ja h2b
 Olioiden ja niiden käytön harjoittelua.
+
+### H3a
+Tutustumista olioiden periytymiseen.
+
+### H3b.
+Lisää periytymistä ja ylikirjoitus.
