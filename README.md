@@ -15,4 +15,4 @@ Tutustumista olioiden periytymiseen.
 Lis‰‰ periytymist‰ ja ylikirjoitus.
 
 ### H4
-Luokkien kosotaminen kompositiolla.
+Luokkien koostaminen kompositiolla.
