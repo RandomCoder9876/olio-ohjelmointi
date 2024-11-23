@@ -11,5 +11,8 @@ Olioiden ja niiden käytön harjoittelua.
 ### H3a
 Tutustumista olioiden periytymiseen.
 
-### H3b.
+### H3b
 Lisää periytymistä ja ylikirjoitus.
+
+### H4
+Luokkien kosotaminen kompositiolla.
