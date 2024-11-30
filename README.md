@@ -16,3 +16,6 @@ Lisää periytymistä ja ylikirjoitus.
 
 ### H4
 Luokkien koostaminen kompositiolla.
+
+### H5
+Muistiosoite ja osoitin l. pointterin kertausta. Tuttustumista referenssiin. 
