@@ -19,3 +19,6 @@ Luokkien koostaminen kompositiolla.
 
 ### H5
 Muistiosoite ja osoitin l. pointterin kertausta. Tuttustumista referenssiin. 
+
+### H6a ja H6b
+Qt-konsolisovellukseen tutustumista.
