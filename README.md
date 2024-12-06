@@ -1,6 +1,7 @@
 # Olio-ohjelmointi
 
 ## T‰‰ll‰ on OAMK:n olio-ohjelmointi kurssin kurssiteht‰vien koodeja.
+Linkki harjoitusteht‰viin: [https://peatutor.com/cplus/harjoitukset/](https://peatutor.com/cplus/harjoitukset/).
 
 ### H1
 T‰m‰ on kertausharjoitus C++ perusteista.
@@ -22,3 +23,6 @@ Muistiosoite ja osoitin l. pointterin kertausta. Tuttustumista referenssiin.
 
 ### H6a ja H6b
 Qt-konsolisovellukseen tutustumista.
+
+### H7
+QtWidget-sovelluksen luonnin harjoittelua.
